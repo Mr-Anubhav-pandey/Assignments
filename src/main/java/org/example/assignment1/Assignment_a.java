@@ -1,4 +1,4 @@
-package org.example;
+package org.example.assignment1;
 
 public class Assignment_a {
 //    2. Write a program to print

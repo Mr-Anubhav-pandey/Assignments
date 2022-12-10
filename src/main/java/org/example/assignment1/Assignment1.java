@@ -1,4 +1,4 @@
-package org.example;
+package org.example.assignment1;
 
 // Paul Bueltel Oct 22 2022
 // this is solution to Q1 on 1st Assignment
